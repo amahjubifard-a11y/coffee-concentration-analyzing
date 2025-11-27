@@ -18,6 +18,9 @@ challenge1_teamA/
         5.Clean_test2.ipynb
         6.Clean_survey.ipynb
         7.Final_analysis.ipynb
+        8.Data_imputation.ipynb
+        9.Vizulization.ipynb
+
 
 2. How to Run (Order)
 ---------------------
@@ -29,6 +32,8 @@ Run notebooks in this order:
 5. 5.Clean_test2.ipynb
 6. 6.Clean_survey.ipynb
 7. 7.Final_analysis.ipynb
+8.Data_imputation.ipynb
+9.Vizulization.ipynb
 
 3. Notes
 --------
